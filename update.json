@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
-  "download_url": "https://github.com/Gabriel6511/Omni_cursor_pro_update/releases/download/v2.1.0/OmniCursorPro_Setup.exe",
-  "release_notes": "ATUALIZAÇÃO v2.1.0 DISPONÍVEL! \n- Nova ferramenta de diagnóstico: Teste de Double-Click do Mouse.\n- Aba de Áudio (Em Breve): Preparação do terreno para o novo módulo de equalização."
+  "version": "2.1.1",
+  "download_url": "https://github.com/Gabriel6511/Omni_cursor_pro_update/releases/download/v2.1.1/OmniCursorPro_Setup.exe",
+  "release_notes": "HOTFIX v2.1.1: Correção do erro ao fechar o aplicativo e correção da permissão de administrador no instalador."
 }
